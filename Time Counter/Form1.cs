@@ -33,7 +33,6 @@ namespace Time_Counter
                 label4.Text = seconds.ToString();
                 minute++;
                 label5.Text = minute.ToString();
-
             }
 
             if (minute == 59)
